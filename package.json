@@ -1,5 +1,5 @@
 {
-  "name": "grunt-proj",
+  "name": "Skeleton",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -9,6 +9,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-stylus": "~0.11.0",
     "grunt-autoprefixer": "~0.5.0",
-    "grunt-contrib-cssmin": "~0.7.0"
+    "grunt-contrib-cssmin": "~0.7.0",
+    "express": "~3.4.7"
   }
 }
